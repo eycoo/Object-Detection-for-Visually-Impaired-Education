@@ -1,6 +1,3 @@
-# Object-Detection-for-Visually-Impaired-Education
-Object Detection for Visually Impaired Education: tool to help visually impaired children learn programming logic. Using Object Detection, the system 'reads' physical flowchart blocks arranged by the student , allowing them to learn independently without needing visual cues.
-
 # Flowchart Symbol Detection System 🚀
 
 ![Project Status](https://img.shields.io/badge/status-active-green)
